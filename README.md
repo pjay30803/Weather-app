@@ -80,8 +80,6 @@ flutter run
 
 🔑 API Key from a weather data provider
 
-🏗️ Tech Stack
-
 🖥️ Framework: Flutter
 
 📜 Language: Dart
@@ -90,10 +88,3 @@ flutter run
 
 🔗 Networking: HTTP Requests
 
-🤝 Contributions
-
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-
-📜 License
-
-This project is licensed under the MIT License.
